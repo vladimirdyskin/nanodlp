@@ -55,6 +55,7 @@
 				<option value="sp" {% if Lang=="sp" %}selected{% endif %} translate>Spanish</option>
 				<option value="chn" {% if Lang=="chn" %}selected{% endif %} translate>Chinese</option>
 				<option value="tr" {% if Lang=="tr" %}selected{% endif %} translate>Turkish</option>
+				<option value="ru" {% if Lang=="ru" %}selected{% endif %} translate>Russian</option>
 			</select>
 			<br>
 		</div>
@@ -84,7 +85,7 @@
 	<h3 translate>Movement GPIOs</h3>
 	<div class="note" translate>Not required, if you are using a separate controller.</div>
 	<div class="row">
-		<div class="col-md-6">			
+		<div class="col-md-6">
 			<label for="ZAxisPin">{{importance(4,1)}} <translate>Step GPIO for Z-Axis</translate>{{helpModal("z-axis-step-gpio,direct-control,gpio")}}</label>
 			{{ gpio_select("ZAxisPin",ZAxisPin) }}
 		</div>
@@ -99,7 +100,7 @@
 		</div>
 	</div>
 	<div class="row ZAxisPin_toggle">
-		<div class="col-md-3">			
+		<div class="col-md-3">
 			<label for="LimitPin">{{importance(4,1)}} <translate>Endstop Switch - Top Limit</translate>{{helpModal("z-axis-endstop-gpio,direct-control,gpio")}}</label>
 			{{ gpio_select("LimitPin",LimitPin) }}
 			<br>
@@ -184,10 +185,10 @@
 			{{ speed_select("ShieldSpeed","Baud Rate",ShieldSpeed) }}
 		</div>
 		{% if arch=="arm" %}
-			<div class="col-md-3">				
+			<div class="col-md-3">
 				<label for="WaitPin">{{importance(3,4)}} <translate>Wait GPIO</translate>{{helpModal("shield-wait-pin,shield,gpio")}}</label>
 				{{ gpio_select("WaitPin",WaitPin) }}
-				
+
 			</div>
 			<div class="col-md-3">
 				<label for="ShieldI2CAddress">{{importance(3,4)}}<translate>i2c Address</translate> <span class="label label-warning" translate>Restart Required</span></label>
@@ -247,9 +248,9 @@
 			<label for="ShutterCloseGcode">{{importance(3,4)}}<translate>Shutter Close Gcode</translate> {{formulaModal()}}</label>
 			<textarea class="form-control" name="ShutterCloseGcode" id="ShutterCloseGcode">{{ShutterCloseGcode}}</textarea>
 			<br>
-		</div>		
+		</div>
 	</div>
-	
+
 	{% if arch=="arm" %}
 	<div class="row">
 		<div class="col-md-6">
@@ -261,11 +262,11 @@
 			</select>
 			<br>
 		</div>
-		<div class="col-md-6 ShutterType_toggle">				
+		<div class="col-md-6 ShutterType_toggle">
 			<label for="ShutterPin">{{importance(3,3)}}<translate>Shutter GPIO</translate>{{helpModal("gpio")}}</label>
 			{{ gpio_select("ShutterPin",ShutterPin) }}
 			<br>
-		</div>	
+		</div>
 	</div>
 	{% endif %}
 
@@ -419,7 +420,7 @@
 			<br>
 		</div>
 	</div>
-	
+
 	<h3 translate>Platform / Resin</h3>
 	<div class="row">
 		<div class="col-md-3">

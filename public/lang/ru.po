@@ -1979,11 +1979,11 @@ msgstr "Задание в процессе обработки, изображе�
 
 #: ../templates/setup/upgrade.html:9
 msgid "This process could take a few seconds to minutes depending on the quality of your internet connection."
-msgstr "Este Processo Pode Levar Alguns Segundos A Minutos, Dependendo Da Qualidade Da Sua Conexão Com A Internet."
+msgstr "Этот процесс может занять от нескольких секунд до нескольких минут в зависимости от качества вашего интернет-соединения."
 
 #: ../templates/plate/extrude.html:9
 msgid "This process could take up to a minute to complete, depending on the depth."
-msgstr "Este Processo Pode Demorar Até Um Minuto Para Ser Concluído, Dependendo Da Profundidade."
+msgstr "В зависимости от высоты построения этого задания может потребоваться до минуты."
 
 #: ../templates/index.html:137
 msgid "Time"
@@ -2004,11 +2004,11 @@ msgstr "Para Habilitar O Acesso Remoto À Impressora, Insira A Senha De Acesso A
 
 #: ../templates/setup/upgrade.html:13
 msgid "To monitor the process you could checkout the activity log. After completion the Printer will be restarted."
-msgstr "Para monitorar o processo, você pode verificar o registro de atividade. Após a conclusão, a impressora será reiniciada."
+msgstr "Чтобы контролировать процесс, вы можете проверить журнал активности. После завершения работы Принтер будет перезапущен."
 
 #: ../templates/setup/setup.html:67
 msgid "To remove the password protection, remove the username from the input and submit."
-msgstr "Para Remover A Proteção Por Senha, Remova O Nome De Usuário Da Entrada E Envie."
+msgstr "Чтобы удалить защиту паролем, удалите имя пользователя из ввода и нажмите Enter."
 
 #: ../templates/plate/preview.html:3
 msgid "Toggle Details"
@@ -2020,47 +2020,47 @@ msgstr "показать лог"
 
 #: ../templates/menu.html:3
 msgid "Toggle Navigation"
-msgstr " "
+msgstr "Переключить навигацию"
 
 #: ../templates/setup/setup.html:9
 msgid "Tools"
-msgstr "Ferramentas"
+msgstr "Инструменты"
 
 #: ../templates/profile/edit.html:317
 msgid "Top Cap Wall"
-msgstr ""
+msgstr "Верхняя крышка"
 
 #: ../templates/calibration/z-calibration.html:74
 msgid "Top ⇧"
-msgstr "Topo ⇧"
+msgstr "Вверх ⇧"
 
 #: ../templates/plate/preview.html:16
 msgid "Total Solid Area"
-msgstr "Área Solida Total"
+msgstr "Общая площадь поверхности"
 
 #: ../templates/setup/setup-config.html:259
 msgid "True/False Signal"
-msgstr "Sinal True/False"
+msgstr "Сигнал True/False"
 
 #: ../templates/profile/edit.html:289
 msgid "Type"
-msgstr ""
+msgstr "Тип"
 
 #: ../templates/setup/setup-config.html:340
 msgid "USB / Serial Port - ASCII (\\n)"
-msgstr "USB / Porta Serial - ASCII (\\n)"
+msgstr ""
 
 #: ../templates/setup/setup-config.html:339
 msgid "USB / Serial Port - ASCII (\\r)"
-msgstr "USB / Porta Serial - ASCII (\\r)"
+msgstr """
 
 #: ../templates/setup/setup-config.html:338
 msgid "USB / Serial Port - ASCII (\\r\\n)"
-msgstr "USB / Porta Serial - ASCII (\\r\\n)"
+msgstr ""
 
 #: ../templates/setup/setup-config.html:341
 msgid "USB / Serial Port - Binary"
-msgstr "USB / Porta Serial - Binário"
+msgstr ""
 
 #: ../templates/setup/setup-config.html:141
 msgid "USB/Serial"
@@ -2069,71 +2069,71 @@ msgstr "USB/Serial"
 #: ../templates/setup/setup-config.html:172
 #: ../templates/setup/setup-config.html:368
 msgid "USB/Serial Port Address"
-msgstr "Endereço Porta USB/Serial"
+msgstr ""
 
 #: ../templates/setup/custom-inputs.html:26
 msgid "Unit Text"
-msgstr "Texto Unidade"
+msgstr "Единицы текста"
 
 #: ../templates/calibration/projector-calibration.html:83
 msgid "Update Lamp Hours"
-msgstr "Atualizar Hora Lâmpada"
+msgstr "Обновить наработк лампы"
 
 #: ../templates/calibration/mask-generator.html:59
 msgid "Update Mask File"
-msgstr ""
+msgstr "Обновить файл маски"
 
 #: ../templates/setup/setup.html:113
 msgid "Upgrade nanoDLP"
-msgstr "Atualizar nanoDLP"
+msgstr "Обновить nanoDLP"
 
 #: ../templates/setup/upgrade.html:16
 msgid "Upgrade to the beta version"
-msgstr "Atualizar Para Versão Beta"
+msgstr "Обновить до Бета версии"
 
 #: ../templates/setup/upgrade.html:14
 msgid "Upgrade to the latest stable version"
-msgstr "Atualizar Para Última Versão Estável"
+msgstr "Обновить до последней стабильной версии"
 
 #: ../templates/plate/plates.html:146
 msgid "Upload Image"
-msgstr "Carregar Imagem"
+msgstr "Загрузить изображение"
 
 #: ../templates/index.html:118
 msgid "Uptime"
-msgstr "Tempo de Atividade"
+msgstr "Время работы"
 
 #: ../templates/setup/setup-buttons.html:62
 msgid "Usable Keywords:"
-msgstr "Palavra-Chave Utilizáveis:"
+msgstr "Использовать ключевое слово"
 
 #: ../templates/profile/edit.html:27
 msgid "Use, If Available"
-msgstr "Usar, Se Disponível"
+msgstr "Использовать, если возможно"
 
 #: ../templates/setup/setup.html:43
 msgid "Username for Admin"
-msgstr "Nome de Usuário Para Administrador"
+msgstr "Логин администратора"
 
 #: ../templates/setup/setup.html:54
 msgid "Username for Dashboard"
-msgstr "Nome de Usuário Painel de Controle"
+msgstr "Логин для панели управления"
 
 #: ../templates/setup/custom-inputs.html:20
 msgid "Value Type"
-msgstr "Tipo de Valor"
+msgstr "Тип значения"
 
 #: ../templates/setup/setup-config.html:546
 msgid "Various Settings"
-msgstr "Configurações Variadas"
+msgstr "Другие настройки"
 
 #: ../templates/setup/setup-config.html:296
 msgid "Vertical Resolution"
-msgstr "Resolução Vertical"
+msgstr "Разрешение по вертикали"
 
 #: ../templates/setup/setup-config.html:328
 msgid "Vertically"
-msgstr ""
+msgstr "Вертикально"
 
 #: ../templates/setup/wireless.html:45
 msgid "WEP"
@@ -2145,44 +2145,44 @@ msgstr "WPA"
 
 #: ../templates/plate/preview.html:32
 msgid "Wait"
-msgstr "Esperar"
+msgstr "Пауза"
 
 #: ../templates/index.html:39 ../templates/plate/preview.html:29
 msgid "Wait After"
-msgstr "Esperar Depois"
+msgstr "Пауза после"
 
 #: ../templates/profile/edit.html:111 ../templates/profile/edit.html:163
 #: ../templates/profile/edit.html:193
 msgid "Wait After Lift"
-msgstr "Esperar Depois Lift"
+msgstr "Пауза после подъема"
 
 #: ../templates/profile/edit.html:146 ../templates/profile/edit.html:96
 msgid "Wait After Print"
-msgstr "Esperar Depois Impressão"
+msgstr "Пауза после засветки"
 
 #: ../templates/index.html:37 ../templates/plate/preview.html:27
 msgid "Wait Before"
-msgstr "Esperar Antes"
+msgstr "Пауза перед"
 
 #: ../templates/profile/edit.html:138 ../templates/profile/edit.html:85
 msgid "Wait Before Print"
-msgstr "Esperar Antes Impressão"
+msgstr "Пауза перед засветкой"
 
 #: ../templates/setup/setup-config.html:187
 msgid "Wait GPIO"
-msgstr ""
+msgstr "Пауза GPIO"
 
 #: ../templates/profile/edit.html:273
 msgid "Wall Around Dimming"
-msgstr ""
+msgstr "Стенка вокруг заполнения"
 
 #: ../templates/profile/edit.html:331
 msgid "Wall Gap"
-msgstr ""
+msgstr "Стенка Gap"
 
 #: ../templates/profile/edit.html:307
 msgid "Wall Size"
-msgstr ""
+msgstr "толщина стенки"
 
 #: ../templates/menu.html:30
 msgid "Wi-Fi"
@@ -2190,71 +2190,71 @@ msgstr "Wi-Fi"
 
 #: ../templates/plate/generator.html:33
 msgid "Width"
-msgstr "Largura"
+msgstr "Ширина"
 
 #: ../templates/setup/setup-config.html:301
 msgid "X/Y Resolution"
-msgstr "Resolução X/Y"
+msgstr "Разрешение X/Y"
 
 #: ../templates/profile/edit.html:415
 msgid "X/Y Size Modifier"
-msgstr ""
+msgstr "Модификация разрешения X/Y"
 
 #: ../templates/setup/setup-config.html:305
 msgid "Y Resolution"
-msgstr "Resolução Y"
+msgstr "Разрегение по Y"
 
 #: ../templates/setup/custom-inputs.html:39
 msgid "You can add additional inputs to the setup page and they will be accessible as Gcode keywords. eg. [[_ResinPumpAmount]]"
-msgstr "Você Pode Adicionar Entradas Adicionais À Página De Configuração E Elas Serão Acessíveis Como Palavras-Chave Do Gcode. Por Exemplo. [[_ResinPumpAmount]]"
+msgstr "Вы можете добавить дополнительные входы на страницу настройки, и они будут доступны в виде ключевых слов Gcode. например. [[_ResinPumpAmount]]"
 
 #: ../templates/plate/cover.html:6
 msgid "You can partially select and cover some sections of the plate to prevent further damage to PDMS and resin waste."
-msgstr "Você Pode Selecionar Parcialmente E Cobrir Algumas Seções Da Bandeja Para Evitar Mais Danos Ao PDMS E Resíduos Da Resina."
+msgstr "Вы можете частично выбрать и покрыть некоторые участки задания, чтобы предотвратить дальнейшее повреждение PDMS и отходов смолы."
 
 #: ../templates/menu.html:14
 msgid "Z Axis Control"
-msgstr ""
+msgstr "Упарвление осью Z"
 
 #: ../templates/profile/edit.html:421
-msgid "Z Model Size Modifier"
+msgid "Модификатор размера по оси Z"
 msgstr ""
 
 #: ../templates/setup/setup-buttons.html:15
 msgid "Z-Axis Calibration"
-msgstr "Calibração Eixo Z"
+msgstr "Калибровка оси Z"
 
 #: ../templates/setup/setup-config.html:465
 msgid "Z-Axis Height"
-msgstr "Altura Eixo Z"
+msgstr "Высота по оси Z"
 
 #: ../templates/profile/edit.html:204
 msgid "Z-Axis Max Speed"
-msgstr ""
+msgstr "Максимальная скорость по оси Z"
 
 #: ../templates/calibration/z-calibration.html:21
 msgid "Zero Level"
-msgstr "Nivel Zero"
+msgstr "Нулевой уровень"
 
 #: ../templates/setup/setup-config.html:158
 msgid "Zero at Bottom"
-msgstr "Zero na Base"
+msgstr "Ноль внизу"
 
 #: ../templates/setup/setup-config.html:159
 msgid "Zero at Top"
-msgstr "Zero no Topo"
+msgstr "Ноль вверху"
 
 #: ../templates/setup/setup-buttons.html:60
 msgid "eg."
-msgstr ""
+msgstr "прим."
 
 #: ../templates/setup/setup-buttons.html:88
 msgid "eg. \\x00\\xff"
-msgstr "Exemp. \\x00\\xff"
+msgstr "прим. \\x00\\xff"
 
 #: ../templates/setup/setup-buttons.html:83
 msgid "eg. {[[LayerThickness]]-[[ZLiftDistance]]}"
-msgstr "Exemp. {[[LayerThickness]]-[[ZLiftDistance]]}"
+msgstr "прим. {[[LayerThickness]]-[[ZLiftDistance]]}"
 
 #: ../templates/setup/setup-config.html:143
 msgid "i2c"
@@ -2263,20 +2263,20 @@ msgstr "i2c"
 #: ../templates/setup/setup-config.html:192
 #: ../templates/setup/setup-config.html:519
 msgid "i2c Address"
-msgstr "Endereço i2c"
+msgstr "Адрес i2c"
 
 #: ../templates/setup/setup-config.html:510
 msgid "i2c Bus Path"
-msgstr ""
+msgstr "Путь шины i2c"
 
 #: ../templates/setup/setup-config.html:274
 #: ../templates/setup/setup-config.html:278
 msgid "ms"
-msgstr ""
+msgstr "милисекунда"
 
 #: ../templates/plate/plates.html:117 ../templates/plate/plates.html:125
 msgid "of"
-msgstr "De"
+msgstr "на"
 
 #: ../templates/profile/edit.html:126 ../templates/setup/setup-config.html:301
 msgid "μm"
@@ -2285,49 +2285,49 @@ msgstr "μm"
 #: ../templates/profile/edit.html:182 ../templates/profile/edit.html:205
 #: ../templates/profile/edit.html:218 ../templates/setup/setup-config.html:437
 msgid "μm/Second"
-msgstr "μm/Segundo"
+msgstr "μm/Секунду"
 
 #~ msgid "Calibration plate being generated..."
-#~ msgstr "A Bandeja de Calibração está sendo gerada..."
+#~ msgstr "Калибровочное задание генерируется..."
 
 #~ msgid "Extend Base Layers of Pillars"
-#~ msgstr "Extender a Camada base dos Pilares"
+#~ msgstr "Расшириный базовый слой для столбика"
 
 #~ msgid "Microsecond"
-#~ msgstr "Microssegundo"
+#~ msgstr "Микросекунд"
 
 #~ msgid "Pillar Shear"
-#~ msgstr "Pilar de Corte"
+#~ msgstr "Столбик "
 
 #~ msgid "Pillar Width"
-#~ msgstr "Largura Pilar"
+#~ msgstr "Ширина столбика"
 
 #~ msgid "Resin Calibration"
-#~ msgstr "Calibração Resina"
+#~ msgstr "Калибровка полимера"
 
 #~ msgid "3D"
 #~ msgstr "3D"
 
 #~ msgid "3D View"
-#~ msgstr "Vista 3D"
+#~ msgstr "3D вид"
 
 #~ msgid "Change Mask File"
-#~ msgstr "Alterar Arquivo Máscara"
+#~ msgstr "Изменить файл маски"
 
 #~ msgid "Edit File"
-#~ msgstr "Editar Arquivo"
+#~ msgstr "Редактировать файл"
 
 #~ msgid "Pixel Difference"
-#~ msgstr "Diferença de Pixel"
+#~ msgstr "Разница пикселя"
 
 #~ msgid "FullHD Red Calib."
-#~ msgstr "Calib. FullHD Vermelha"
+#~ msgstr "FullHD калибровка (красная)"
 
 #~ msgid "Optional, Will be used instead of the global one"
-#~ msgstr "Opcional"
+#~ msgstr "Необязательно, будет использоваться вместо глобального"
 
 #~ msgid "Add with Support"
-#~ msgstr "Adicionar com Suportes"
+#~ msgstr "Добавить с поддержками"
 
 #~ msgid "Rectangle for Resolution Measurement"
-#~ msgstr "Retângulo Para Medir Resolução"
+#~ msgstr "Куб для регулировки размеров"

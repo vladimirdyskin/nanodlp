@@ -273,7 +273,7 @@ msgstr "Радиус размытия"
 
 #: ../templates/setup/setup-config.html:200
 msgid "Bootup Gcode"
-msgstr "Начальный G-Code"
+msgstr "G-Code при загрузке"
 
 #: ../templates/setup/setup-config.html:329
 msgid "Both"

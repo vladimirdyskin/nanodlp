@@ -113,7 +113,8 @@ msgstr "Сглаживание"
 
 #: ../templates/setup/setup.html:94
 msgid "Any of the following actions will take effect immediately after click, without changing the page."
-msgstr "Qualquer Uma Das Seguintes Ações Entrará Em Vigor Imediatamente Após O Clique, Sem Alterar A Página."
+msgstr "Любое из следующих действий вступает в силу сразу после нажатия, без изменения страницы.
+"
 
 #: ../templates/setup/setup-buttons.html:19
 msgid "Anytime"
@@ -285,7 +286,7 @@ msgstr "Нижня крышка"
 
 #: ../templates/calibration/projector-calibration.html:26
 msgid "Boundaries"
-msgstr "???"
+msgstr "Без изображения"
 
 #: ../templates/plate/preview.html:20
 msgid "Boundry - X"
@@ -544,7 +545,7 @@ msgstr "Диск"
 #: ../templates/calibration/projector-calibration.html:98
 #: ../templates/setup/setup-config.html:289
 msgid "Display"
-msgstr "Проектор / Дисплей"
+msgstr "Показать"
 
 #: ../templates/setup/setup-config.html:335
 msgid "Display Communication Type"
@@ -2202,7 +2203,7 @@ msgstr "Модификация разрешения X/Y"
 
 #: ../templates/setup/setup-config.html:305
 msgid "Y Resolution"
-msgstr "Разрегение по Y"
+msgstr "Разрешение по Y"
 
 #: ../templates/setup/custom-inputs.html:39
 msgid "You can add additional inputs to the setup page and they will be accessible as Gcode keywords. eg. [[_ResinPumpAmount]]"
